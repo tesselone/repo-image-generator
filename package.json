@@ -1,0 +1,10 @@
+{
+  "name": "repo-image-generator",
+  "version": "0.1.0",
+  "main": "app.js",
+  "private": true,
+  "dependencies": {
+    "node-canvas": "^2.7.0"
+  },
+  "type": "module"
+}
